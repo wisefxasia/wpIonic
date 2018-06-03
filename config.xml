@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.wpionic.app" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>WPIonic</name>
-    <description>WordPress + Ionic.</description>
-    <author email="hi@scottbolinger" href="http://scottbolinger.com/">Scott Bolinger</author>
+    <name>MyToko</name>
+    <description>Mytoko</description>
+    <author email="hi@scottbolinger" href="http://mytoko.cepatbuat.website">Scott Bolinger</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
